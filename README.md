@@ -1,2 +1,2 @@
-# GITHUB TRIAL
+# GITHUB TRIAL SUPER EDITED
 Tady se updatuje README.md
